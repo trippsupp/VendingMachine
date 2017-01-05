@@ -22,7 +22,7 @@ import javax.swing.JTextPane;
  * GUI - Controls the graphical user interface
  *
  * @author Vance Field
- * @version 5-Jan-2016
+ * @version 5-Jan-2017
  */
 public class GUI extends JPanel {
 
